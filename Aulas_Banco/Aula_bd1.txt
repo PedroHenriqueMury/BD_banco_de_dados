@@ -12,3 +12,34 @@ Primeira Implementação Comercial em 1979 (Oracle)
 
  -Linguagem padrão de acesso a BD relacionais
 -Normalização ANSI e ISO : SQL89, SQL92, SQL3, etc.
+
+
+
+Objetivo Principal -
+
+-Tratamento unificado da definição, manipulação e controle dos dados, sendo útil para todas as classes
+de utilizadores.
+
+
+Acesso a BD(Banco de Dados)
+
+
+Cliente(FrontEnd)--------------------------> Servidor(BackEnd)
+
+
+Cliente - (SQL, PL/SQL, SQL Embutido, IDBC, ODBC)
+
+
+
+CRIAÇÃO DE UMA TABELA
+
+
+create table tabela
+	(coluna tipo restrição_de_coluna,
+	 coluna tipo restrição_de_coluna,
+	 ...
+	 restrição_de_tabela,
+	 ...
+	)
+
+*Em access a criação de tabelas é feita pela interface gráfica.
