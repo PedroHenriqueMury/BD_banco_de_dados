@@ -1,0 +1,14 @@
+SQL - Structure Query Language
+
+-Definição de dados
+-Manipulação dos Dados
+-Interoperalização
+
+
+DBA - Administrador de banco de dados
+
+Introduzida em 1976 como LMD para System R (IBM). 
+Primeira Implementação Comercial em 1979 (Oracle)
+
+ -Linguagem padrão de acesso a BD relacionais
+-Normalização ANSI e ISO : SQL89, SQL92, SQL3, etc.
