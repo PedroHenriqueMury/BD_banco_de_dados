@@ -43,3 +43,19 @@ create table tabela
 	)
 
 *Em access a criação de tabelas é feita pela interface gráfica.
+
+
+
+Tipos de dados
+
+
+char(n)
+-Cadeias de caracteres de comprimento
+	fixo 1 < n < 255;
+
+VARCHAR2(n)
+-Cadeia de caracteres de comprimento variável, de valor máximo
+	1 < n < 4000;
+
+NUMBER(p,s)
+-Número com precisão 1 < p < 38 e escola -84 < s < 127
